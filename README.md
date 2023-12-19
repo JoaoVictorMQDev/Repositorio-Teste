@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do curso.
 
- 'Adicionando inha diretamente pelo site'
+ 'Adicionando linha diretamente pelo site'
